@@ -23,6 +23,11 @@ Thẻ đóng sẽ đánh dấu vào cuối của một Element, có hình thức
 </body>
 </html>
 ```
+
+THẻ `head` thì quan tâm đến title, favicon
+
+THẻ `body` chứa các phẩn tử sẽ được hiển thị trên web
+
 ### TÌm hiểu các thẻ tag trong html, công dụng của các thẻ html đơn giản hay dùng
 
 ### Bài tập
